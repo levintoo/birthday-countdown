@@ -16,7 +16,7 @@ function countDown() {
   console.log(timeSpan)
 
   if (timeSpan <= -day) {
-    timeLeft.innerHTML = 'Hope you had a nice Birthday!!'
+    timeLeft.innerHTML = 'Levin had a nice Birthday!!'
     clearInterval(timerId)
     return
   }
