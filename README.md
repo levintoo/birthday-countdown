@@ -1,1 +1,1 @@
-# birthday-countdown
+vanilla js birthday-countdown 
